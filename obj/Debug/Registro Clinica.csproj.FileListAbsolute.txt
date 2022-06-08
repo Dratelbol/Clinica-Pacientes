@@ -1,0 +1,11 @@
+C:\Users\Nicolas\Downloads\Nueva carpeta (5)\Registro-Clinica-master\bin\Debug\Registro Clinica.exe.config
+C:\Users\Nicolas\Downloads\Nueva carpeta (5)\Registro-Clinica-master\bin\Debug\Registro Clinica.exe
+C:\Users\Nicolas\Downloads\Nueva carpeta (5)\Registro-Clinica-master\bin\Debug\Registro Clinica.pdb
+C:\Users\Nicolas\Downloads\Nueva carpeta (5)\Registro-Clinica-master\obj\Debug\Registro Clinica.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Downloads\Nueva carpeta (5)\Registro-Clinica-master\obj\Debug\Registro Clinica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolas\Downloads\Nueva carpeta (5)\Registro-Clinica-master\obj\Debug\Registro_Clinica.Properties.Resources.resources
+C:\Users\Nicolas\Downloads\Nueva carpeta (5)\Registro-Clinica-master\obj\Debug\Registro Clinica.csproj.GenerateResource.cache
+C:\Users\Nicolas\Downloads\Nueva carpeta (5)\Registro-Clinica-master\obj\Debug\Registro Clinica.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Downloads\Nueva carpeta (5)\Registro-Clinica-master\obj\Debug\Registro Clinica.exe
+C:\Users\Nicolas\Downloads\Nueva carpeta (5)\Registro-Clinica-master\obj\Debug\Registro Clinica.pdb
+C:\Users\Nicolas\Downloads\Nueva carpeta (5)\Registro-Clinica-master\obj\Debug\Clinica_Pacientes.Form1.resources
